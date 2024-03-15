@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Victor Santos!
 
-<img align="right" width="180" height="189" alt="programmer-cat" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" width="180" height="189" alt="programmer-cat" src="./cat.gif">
 
 - 👨‍💻 Studying Computer Science @ Federal University of Rio de Janeiro (UFRJ)
 - 📆 Graduation Year: 2026
